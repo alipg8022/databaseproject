@@ -1,7 +1,7 @@
 # databaseproject
 university project
 ## summary
-in thhis project we combine a couple of chain resturants to create a bigger one(note:the hole database is the informatin of the created resturant)
+in this project we combine a couple of chain resturants to create a bigger one(note:the hole database is the informatin of the created resturant)
 ### ER-model
 the ER-model shows the relationships between tables the following link is the jpg file of the ER-model
 ![er diagram](https://github.com/alipg8022/databaseproject/assets/138157586/7e396ef0-a7f8-4894-8545-1640195737e3)
