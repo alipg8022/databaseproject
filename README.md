@@ -12,7 +12,6 @@ tables contain informations and attributes of the database.the pic below shows t
 the file docpac contains the database and some records while the sql file has the queries required to build tabales.everything has been explained in"گزارش کار".
 [گزارشکار درس پایگاه داده.pdf](https://github.com/alipg8022/databaseproject/files/11919438/default.pdf)
 
-![third query](https://github.com/alipg8022/databaseproject/assets/138157586/e100de4c-7e7d-4510-8746-e3b633ab8932)
 ###### pics of table examples
 1.resturant
 
@@ -50,7 +49,8 @@ the file docpac contains the database and some records while the sql file has th
 
 ![orit](https://github.com/alipg8022/databaseproject/assets/138157586/23378704-0a11-48da-865d-393422911a55)
 
-###### pics of example quuerries
+
+pics of example quuerries for above table
 1.the query to find the foods in a specific resturant menue 
 ![first query](https://github.com/alipg8022/databaseproject/assets/138157586/16fe3d54-2935-4cd6-99c3-1c051d961ad5)
 2.the query to know if a customer has ordered from every branch
