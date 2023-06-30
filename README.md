@@ -56,6 +56,7 @@ pics of example quuerries for above table
 2.the query to know if a customer has ordered from every branch
 ![secend query](https://github.com/alipg8022/databaseproject/assets/138157586/110742bd-c42d-49ad-8fc4-6d44fc87f218)
 3.the query to see if a customeer has ordered from the same branch more than once
+![third query](https://github.com/alipg8022/databaseproject/assets/138157586/c868aaa8-b343-48c8-8da8-78e8f0e67ff7)
 
 
 
